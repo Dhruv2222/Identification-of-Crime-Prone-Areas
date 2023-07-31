@@ -1,6 +1,9 @@
 # Identification-of-Crime-Prone-Areas
 Bachelor's Degree Final Project
 
+![image](https://github.com/Dhruv2222/Identification-of-Crime-Prone-Areas/assets/56965365/90f10e7a-9bab-4403-8c3b-4d16a752538c)
+
+
 ## Problem Definition:
 Emergencies can be of different kinds, from fires to road accidents and assaults, to medical emergencies. It is distressing to be faced with an unanticipated incident or emergency. In our country, 112 is the single emergency number, people in distress can call to get immediate assistance – from fire brigade, medical team or from the police. Law enforcement officials across the country would find it incredibly useful if they had an automated system to continually identify areas that are more prone to crimes and policing-related incidents, than others. This would allow them to proactively review and plan suitable resource deployments and patrolling in those areas, and thereby preempt and prevent, as far as possible, untoward incidents that could result in an emergency.
 Through this project we aim to utilize the power of Machine Learning to tackle the increasing criminal activity in the society. We can identify the crime prone areas by analyzing the historic data from emergency services and the current data from sources like Twitter and News feeds. Further, we aim to build a solution for policing that is able to filter out crimes based on the type of crime as well as the location. This will enable officials to reduce the crime by taking actions which will be specific to the crimes in each location. It will also help people to know which area is safe for them to visit.
